@@ -1,0 +1,15 @@
+[
+  {
+    "id": "slide-001",
+    "name": "Synthetic Demo Slide 001",
+    "dziUrl": "/slides/slide-001/slide.dzi",
+    "caseId": "DEMO-CASE-001",
+    "specimen": "Educational demonstration",
+    "stain": "N/A",
+    "scanner": "Aperio",
+    "magnification": 40,
+    "width": 15374,
+    "height": 17497,
+    "mpp": 0.2498
+  }
+]
